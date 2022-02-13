@@ -11,6 +11,9 @@ Document Object Model ( DOM ) is just the same document but with object (node). 
 can understand the ```h1  a```  and we can perform the task like  ```document.body ```.
 
 Basic Structure of Html as following 
+
+
+
 ```
 <!DOCTYPE HTML>
 <html>
@@ -35,6 +38,8 @@ it is a text node.
 above is an example of DOM Tree. In above when we write the class of an element it also comes as 
 children . Now we will see how to manipulate the DOM? Generally, we do two things with the Dom 
 we get the element and its properties or we set the element .
+
+
 ```
 <!DOCTYPE HTML>
 <html>
@@ -100,9 +105,3 @@ span.removeChild(para) ;
 ```
 
 Now that's all for this post there a lot more .
-
-
-
-
-
- 
